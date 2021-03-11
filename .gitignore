@@ -4,3 +4,5 @@ ven/
 node_modules
 env.py
 ctf-collab/env.py
+ctf-collab/venv/
+ctf-collab/ven
